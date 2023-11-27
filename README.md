@@ -10,4 +10,4 @@ All assignments were done in C++.
 4. Calculator for Unlimited sized Rational numbers.
 5. Compiler for E++ language using AVL trees and Minheaps for Efficient Operations.
 6. Implemented Dictionary using Tries and a Search Engine for Efficient Searches.
-7. 
+7. Implemented Search Engine for searching a user input Query and ranking the paragraphs in which they appear and then generating reply using openai's api.
